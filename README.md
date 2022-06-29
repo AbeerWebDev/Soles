@@ -55,8 +55,8 @@ Version 1.0 
 Project is: Completed
 
 ## Room for Improvement
-
-* Make the display more interesting to the user by further expanding in the use of jQuery features.
+* Make the footer interactive.
+* Make the display computer friendly.
 
 ## Acknowledgements
 * Many thanks to Codecademy.
